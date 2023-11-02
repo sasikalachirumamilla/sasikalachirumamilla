@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasikala Chirumamilla</h1>
-<h3 align="center">A passionate Programmer!</h3>
+<h3 align="center">A passionate Programmer</h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/hRPio53A4z3ZzxmXLxC69Oo-p3NlWjVOP_5SqS78LuE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/UVZDMU5tYjlUd1VB/QUFBai9jb2Rpbmcu/Z2lm.gif"></right>
 
