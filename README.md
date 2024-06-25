@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasikalachirumamilla&label=Profile%20views&color=0e75b6&style=flat" alt="sasikalachirumamilla" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Web Development, DSA**
+- 🌱 I’m currently learning **Web Development, DSA**
 
 - 💬 Ask me about **Problem Solving!**
 
 - 📫 How to reach me **sasichirumamilla22@gmail.com**
 
-- ⚡ **I think, I am Funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
